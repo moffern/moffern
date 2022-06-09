@@ -3,4 +3,4 @@
 * 🔭 I’m currently working on small projects from kernel/usermode to basic cpp.
   I also do some reverse engineering from time to time.
 * 🏆 My goal is to hopefully one day be able to write my own anti-cheat and stuff
-  like that.
+  like that. And maybe even a career within something related to this.
