@@ -8,6 +8,6 @@
   And maybe even have a career within something related to this.
   
 * 📓 If you see some bad code and/or want to share some thoughts on how to make it better,
-  please do contact me 👇. I appreciate all the help i can get and i always want to learn more.
+  please do contact me. I appreciate all the help i can get and i always want to learn more.
   
 * 📧 moffern87@hotmail.com
