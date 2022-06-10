@@ -1,4 +1,4 @@
-### Hi there 👋 I started my C++ journey early 2021, been addicted since.
+### Hi there 👋
 
 * 🔭 I’m currently working on small "projects" from kernel/usermode to basic cpp.
   I also do some reverse engineering from time to time.
