@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I started learning C++ early 2021.
 
 * 🔭 I’m currently working on small "projects" from kernel/usermode to basic cpp.
   I also do some reverse engineering from time to time.
