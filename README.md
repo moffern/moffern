@@ -10,4 +10,4 @@
 * 📓 If you see some bad code and/or want to share some thoughts on how to make it better,
   please do contact me. Any help is always appreciated as i always want to learn more.
   
-* 📧 moffern87@hotmail.com
+* 📧 Contact me at: moffern87@hotmail.com
