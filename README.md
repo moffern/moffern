@@ -7,7 +7,7 @@
   like that, or atleast have the understanding/experience to know how to do so. 
   And maybe even have a career within something related to this.
   
-* 📓 If you see some bad code and/or want to share some thoughts, please do contact me. 
+* 📓 If you see some bad code and/or want to share some thoughts, just use my email below. 
   Any help is always appreciated as i always want to get better and learn more.
   
 * 📧 moffern87@hotmail.com
