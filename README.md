@@ -1,4 +1,4 @@
-### Hi there 👋 I started my C++ journey early 2021.
+### Hi there 👋
 
 * 🔭 I’m currently working on small "projects" from kernel/usermode to basic cpp.
   I also do some reverse engineering from time to time.
@@ -7,7 +7,7 @@
   like that, or atleast have the understanding/experience to know how to do so. 
   And maybe even have a career within something related to this.
   
-* 📓 If you see some bad code and/or want to share some thoughts on how to make it better,
-  please do contact me. Any help is always appreciated as i always want to learn more.
+* 📓 If you see some bad code and/or want to share some thoughts, please do contact me. 
+  Any help is always appreciated as i always want to learn more.
   
 * 📧 moffern87@hotmail.com
