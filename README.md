@@ -7,5 +7,6 @@
   like that, or atleast have the understanding/experience to know how to do so. 
   And maybe even have a career within something related to this.
   
-* 📓 If you see some bad code and/or want to share some thoughts -> moffern87@hotmail.com. 
-  Any help is highly appreciated as i always want to get better and learn more.
+* 📓 As im pretty new at all of this, im sure there will be alot of mistakes,
+  so if you see some bad code and/or want to share some thoughts -> moffern87@hotmail.com. 
+  Any help is always appreciated!.
