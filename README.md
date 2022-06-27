@@ -7,6 +7,6 @@
   like that, or atleast have the understanding/experience to know how to do so. 
   And maybe even have a career within something related to this.
   
-* 📓 As im pretty new at all of this, im sure there will be alot of mistakes,
+* 📓 As im pretty new at all of this, im sure there will be alot of mistakes in my code,
   so if you see some bad code and/or want to share some thoughts -> moffern87@hotmail.com. 
   Any help is always appreciated!.
