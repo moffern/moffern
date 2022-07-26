@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on small "projects" from kernel/usermode to basic cpp.
+* 🔭 I’m currently working on small "projects" in both kernel and usermode.
   I also do some reverse engineering from time to time.
   
 * 🏆 My goal is to hopefully one day be able to write my own kernel anti-cheat and stuff
